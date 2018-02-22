@@ -36,7 +36,7 @@ Part      |  Description                   | Deadline |
 5         | Presentation					| 18rd May 2018, Friday
 
 
-[1-1A]: https://git.generalassemb.ly/dsi-sg-02/projects/blob/master/project-one
+[1-1A]: https://git.generalassemb.ly/dsi-sg-03/projects/tree/master/project-one
 [1-1B]: https://git.generalassemb.ly/dsi-sg-02/projects/blob/master/project-two
 [1-1C]: https://git.generalassemb.ly/dsi-sg-02/projects/blob/master/kaggle-mosquito
 [1-1D]: https://git.generalassemb.ly/dsi-sg-02/projects/blob/master/project-three
